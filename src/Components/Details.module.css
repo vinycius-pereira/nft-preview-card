@@ -1,0 +1,16 @@
+.ethereumIcon {
+    margin: 0 8px 0 0;
+    width: 13px;
+}
+
+.clockIcon {
+    margin: 0 8px 0 0;
+    width: 21px;
+}
+
+.avatar {
+    border-radius: 50%;
+    border: 1px solid white;
+    width: 35px;
+    margin: 0 8px 0 0;
+}
