@@ -1,0 +1,11 @@
+root,html,body {
+  --background-color: hsl(217, 54%, 11%);
+  background-color: var(--background-color);
+  margin: 0;
+  height: 100vh;
+  width: auto
+}
+
+p,h1{
+  margin: 0;
+}
